@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Biblioteca Virtual</title>
+    <title>Perfumes Wongs</title>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 <body>
