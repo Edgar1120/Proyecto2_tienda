@@ -16,7 +16,7 @@ class CategoriaController extends Controller
             'data' => Categoria::all()
         ]);
     }
-
+// ca
     public function store(Request $request)
     {
         $request->validate([
