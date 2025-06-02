@@ -10,14 +10,13 @@
 </template>
 
 <script setup>
-// No se necesita lógica por ahora
+
 </script>
 
 <style scoped>
 .welcome-page {
     position: relative;
     height: 100vh;
-    background-image: url('https://i.postimg.cc/4NqN2zqb/XP66.webp');
     background-size: cover;
     background-position: center;
     overflow: hidden;
@@ -30,7 +29,7 @@
     height: 100%;
     width: 100%;
     background: rgba(39, 0, 66, 0.6);
-    /* tono morado oscuro translúcido */
+  
     z-index: 1;
 }
 

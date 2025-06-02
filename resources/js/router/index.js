@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import PerfumeList from '../views/PerfumeList.vue';
 import PerfumeForm from '../views/PerfumeForm.vue';
-import WelcomePage from '../views/WelcomePage.vue'
+import WelcomePage from '../views/WelcomePage.vue';
 import PerfumeDetail from '@/views/PerfumeDetail.vue';
 import Categorias from '../views/Categorias.vue'
 
