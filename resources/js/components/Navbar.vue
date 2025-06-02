@@ -4,7 +4,7 @@
       <a class="navbar-brand" href="/">Perfumes Wongs</a>
       
       <div class="d-flex">
-        <router-link to="/perfumes" class="btn btn-outline-light me-2">Perfumes</router-link>
+        <router-link to="/" class="btn btn-outline-light me-2">Perfumes</router-link>
         <router-link to="/categorias" class="btn btn-outline-light me-2">Categorias</router-link>
       </div>
     </div>

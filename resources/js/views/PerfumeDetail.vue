@@ -29,7 +29,7 @@
             Eliminar
           </button>
 
-          <router-link to="/perfumes" class="btn btn-secondary">
+          <router-link to="/" class="btn btn-secondary">
             Volver
           </router-link>
         </div>
